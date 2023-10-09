@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../WebRTCLiveKit/src/out/ios-arm64-device/all.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:../client-sdk-swift">
    </FileRef>
    <FileRef

@@ -29,15 +29,6 @@
         }
       },
       {
-        "package": "WebRTC",
-        "repositoryURL": "https://github.com/webrtc-sdk/Specs.git",
-        "state": {
-          "branch": null,
-          "revision": "7604a8945f9a867518df43095c7af3af30677c7d",
-          "version": "114.5735.6"
-        }
-      },
-      {
         "package": "swift-log",
         "repositoryURL": "https://github.com/apple/swift-log.git",
         "state": {
